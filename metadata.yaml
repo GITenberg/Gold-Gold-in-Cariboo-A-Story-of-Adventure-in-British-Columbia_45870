@@ -1,0 +1,39 @@
+_repo: Gold-Gold-in-Cariboo-A-Story-of-Adventure-in-British-Columbia_45870
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hindley, Godfrey C.
+    gutenberg_agent_id: '41873'
+    url: http://www.gutenberg.org/2009/agents/41873
+covers:
+- cover_type: archival
+  image_path: 45870-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Phillipps-Wolley, Clive
+    deathdate: 1918
+    gutenberg_agent_id: '35070'
+    url: http://www.gutenberg.org/2009/agents/35070
+description: ''
+gutenberg_issued: '2014-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45870'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Gold mines and mining -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Cariboo (B.C. : Regional district) -- Gold discoveries -- Juvenile fiction'
+- !lcsh 'Gold miners -- Juvenile fiction'
+- !lcsh 'Swindlers and swindling -- Juvenile fiction'
+- !lcsh 'Gold dredging -- Juvenile fiction'
+- !lcsh 'Household employees -- Juvenile fiction'
+- !lcsh 'British Columbia -- History -- Juvenile fiction'
+- !lcsh 'Artists -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+title: Gold, Gold, in Cariboo! A Story of Adventure in British Columbia
+url: http://www.gutenberg.org/ebooks/45870
